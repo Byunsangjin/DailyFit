@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>E6DD0797-FF60-4016-BDB6-BB2138CF47E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6DD0797-FF60-4016-BDB6-BB2138CF47E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DailyFit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DailyFit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build (Automatic) DailyFit</string>
+			<key>timeStartedRecording</key>
+			<real>745391402.77344406</real>
+			<key>timeStoppedRecording</key>
+			<real>745391416.97467804</real>
+			<key>title</key>
+			<string>Build (Automatic) DailyFit</string>
+			<key>uniqueIdentifier</key>
+			<string>E6DD0797-FF60-4016-BDB6-BB2138CF47E1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
